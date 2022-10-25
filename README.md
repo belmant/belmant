@@ -56,19 +56,22 @@
 terceros, envio de emails, filtros combinados,etc</p>
 
 ### Algunas imagenes 
-<img src='./imagenes/presentacion.jpeg' height=150px> <img src='./imagenes/usuario.jpeg'  height=150px> <img src='./imagenes/carrito.jpeg'  height=150px> <img src='./imagenes/asientos.jpeg'  height=150px>
+<img src='./imagenes/PF/presentacion.jpeg' height=150px> <img src='./imagenes/PF/usuario.jpeg'  height=150px> <img src='./imagenes/PF/carrito.jpeg'  height=150px> <img src='./imagenes/PF/asientos.jpeg'  height=150px>
+
+<a href='https://github.com/Clavi-K/PF-Henry-Back'> 📂 Ver repositorio Back</a><a href='https://github.com/mrtfog/PF-Henry-Front'> 📂 Ver repositorio Front</a>  <a href='https://hpfc.netlify.app'> 🌐 Ver proyecto </a>
 
 
-## Let's travel
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Redux.js-764ABC?style=flat&logo=redux&logoColor=white "> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=Express.js&logoColor=white&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src='https://img.shields.io/badge/-Postgrss-1E8EC2?logo=postgresql&logoColor=FFF'> <img src='https://img.shields.io/badge/-Sequelize-0A1183?logo=sequelize'> <img src='https://img.shields.io/badge/-Railway-561651?logo=railway&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Vercel-1E1B1D?logo=vercel'>  <img src='https://img.shields.io/badge/-Figma-0A1183?logo=figma'>
+## Dogs 
 
-<p>Proyecto individual (PI) requerido para la aprobacion del Bootcamp de Henry. Aqui se pone en prueba los conocimientos adquiridos durante el cursado del bootcamp en lo que respecta creacion de una base de datos relacional, la creacion de un Backend que conecte esta base de datos y la correspondiente coneccion con el Frontend para llegar a una SPA completamente funcional. Para este proyecto fue tambien utilizado FIGMA para el diseño previo</p>
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Redux.js-764ABC?style=flat&logo=redux&logoColor=white "> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=Express.js&logoColor=white&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src='https://img.shields.io/badge/-Postgrss-1E8EC2?logo=postgresql&logoColor=FFF'> <img src='https://img.shields.io/badge/-Sequelize-0A1183?logo=sequelize'> 
+
+<p>Proyecto individual (PI) requerido para la aprobacion del Bootcamp de Henry. Aqui se pone en prueba los conocimientos adquiridos durante el cursado del bootcamp en lo que respecta creacion de una base de datos relacional, la creacion de un Backend que conecte esta base de datos y la correspondiente coneccion con el Frontend para llegar a una SPA completamente funcional.</p>
 
 ### Algunas imagenes 
-<img src='./Proyects/PI/landing.png' height=150px> <img src='./Proyects/PI/home.png' height=150px> <img src='./Proyects/PI/post.png' height=150px> <img src='./Proyects/PI/detail.png' height=150px>
+<img src='./imagenes/PI/presentacion.jpeg' height=150px> <img src='./imagenes/PI/perros.jpeg' height=150px> <img src='./imagenes/PI/form.jpeg' height=150px> 
 
-<a href='https://github.com/JaluGJ/lets-travel'> 📂 Ver repositorio</a> <a href='https://lets-travel-gray.vercel.app/'> 🌐 Ver proyecto </a> <a href="https://www.figma.com/file/0jAbmRVyLiZtZKtyzmTUDz/Let's-travel?node-id=37%3A146"> 🎨 Ver Figma</a>
+<a href=https://github.com/belmant/PI-DOGS> 📂 Ver repositorio</a> 
 
 ---
 <!--
