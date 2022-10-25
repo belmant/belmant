@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hola 👋, soy María Belén Manterola (Belu)</h1>
-<h3 align="center">Una apasionada desarrollador web de Argentina</h3>
+<h3 align="center">Una apasionada desarrolladora web de Argentina</h3>
 
 - 💬 ¿Quién soy yo? **Soy apasionada por el desarrollo web y la logica de programación con el deseo constante de aprender y trabajar en equipo.**
 
