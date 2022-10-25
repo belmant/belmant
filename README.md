@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hola 👋, soy María Belén Manterola (Belu)</h1>
-<h3 align="center">Un apasionado desarrollador web de Argentina</h3>
+<h3 align="center">Una apasionada desarrollador web de Argentina</h3>
 
-- 💬 ¿Quién soy yo? **Soy un apasionado por el desarrollo web y la logica de programación con el deseo constante de aprender y trabajar en equipo.**
+- 💬 ¿Quién soy yo? **Soy apasionada por el desarrollo web y la logica de programación con el deseo constante de aprender y trabajar en equipo.**
 
 - 🤔 Algunos de mis hobbies: **Cocinar, leer, ver series y peliculas, dibujar**
 
@@ -23,10 +23,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><img src= 'https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudio'>
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/-Sass-BF4080?style=flat&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Redux.js-764ABC?style=flat&logo=redux&logoColor=white "> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white "> 
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src= 'https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudio'><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/-Sass-BF4080?style=flat&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Redux.js-764ABC?style=flat&logo=redux&logoColor=white "> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white "><img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff">
 
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Sequelize-399AF3?style=flat&logo=sequelize&logoColor=FFFFFF"> 
@@ -37,20 +35,7 @@
 # 👨‍💻 Mis proyectos:
 
 ## Moviefy + <img src= './Proyects/PF/logo-despixeleado.png' width = 25px align ='right' align= "center"/>
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-Sass-BF4080?style=flat&logo=sass&logoColor=white"> 
-<img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Redux.js-764ABC?style=flat&logo=redux&logoColor=white "> 
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=Express&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> 
-<img src='https://img.shields.io/badge/-MongoDB-11A513?logo=mongodb&logoColor=FFF'>
- <img src='https://img.shields.io/badge/-Mongoose-EA0D0D?logo=mongoose'>
-<img src='https://img.shields.io/badge/-Nodemailer-2D8C1E?logo=nodemailer'>
-<img src='https://img.shields.io/badge/-Mercado Pago-314297?logo=Mercado Pago&logoColor=ffffff'> 
-<img src='https://img.shields.io/badge/-Cloudinary-B8971D?logo=cloudinary&logoColor=ffffff'>
-<img src='https://img.shields.io/badge/-MaterialUI-1DB8B1?logo=mui&logoColor=ffffff'> 
-<img src='https://img.shields.io/badge/-Vercel-1E1B1D?logo=vercel'> 
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/-Sass-BF4080?style=flat&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Redux.js-764ABC?style=flat&logo=redux&logoColor=white "> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src='https://img.shields.io/badge/-MongoDB-11A513?logo=mongodb&logoColor=FFF'> <img src='https://img.shields.io/badge/-Mongoose-EA0D0D?logo=mongoose'> <img src='https://img.shields.io/badge/-Nodemailer-2D8C1E?logo=nodemailer'> <img src='https://img.shields.io/badge/-Mercado Pago-314297?logo=Mercado Pago&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Cloudinary-B8971D?logo=cloudinary&logoColor=ffffff'> <img src='https://img.shields.io/badge/-MaterialUI-1DB8B1?logo=mui&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Vercel-1E1B1D?logo=vercel'> 
 
 <p>Diseñar y desarrollar una E-commerce de cine para venta de entradas y con servicio de streaming que incluía: pasarela de pagos, perfil de usuario y admin., auth de
 terceros, envio de emails, filtros combinados,etc</p>
