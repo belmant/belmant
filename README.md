@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2E22F7&vCenter=true&multiline=true&height=100&lines=export+function+GitProfile()+%7B%7D;render+%3CGitProfile%2F%3E;npm+start)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EB2457&vCenter=true&multiline=true&height=100&lines=export+function+GitProfile()+%7B%7D;render+%3CGitProfile%2F%3E;npm+start)](https://git.io/typing-svg)
 
 
 <h1 align="center">Hola 👋, soy María Belén Manterola (Belu)</h1>
@@ -6,7 +6,7 @@
 
 - 💬 ¿Quién soy yo? **Soy apasionada por el desarrollo web y la logica de programación con el deseo constante de aprender y trabajar en equipo.**
 
-- 🤔 Algunos de mis hobbies: **Cocinar, leer, ver series y peliculas, dibujar**
+- 🤔 Algunos de mis hobbies: **Cocinar, leer, ver series y peliculas, dibujar.**
 
 - 📝 ¿Quieres contactarme? **Puedes hacerlo a través de Linkedin https://www.linkedin.com/in/belmant/ o vía email manterolabelu@outlook.es**
 
